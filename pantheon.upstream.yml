@@ -6,3 +6,6 @@ build_step_demo: true
 protected_web_paths:
   - /private
 
+
+# See https://pantheon.io/docs/pantheon-yml/#enforce-https--hsts for valid values.
+enforce_https: transitional
