@@ -22,7 +22,7 @@
 /web/sites/*/private
 
 # Ignore SimpleTest multi-site environment.
-/web/sites/simpletest
+/web/sites/simpletesteb/co
 
 
 # Ignore custom modules managed by Composer.
@@ -61,7 +61,7 @@
 # ------------------------------------------------------------------
 /drush/Commands/contrib/
 #/web/core/
-/web/modules/contrib/
+#/web/modules/contrib/
 /web/themes/contrib/
 /web/profiles/contrib/
 /web/libraries/
